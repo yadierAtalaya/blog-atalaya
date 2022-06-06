@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.8" height="18" viewBox="0 0 27.8 18">
+  <g id="visible" transform="translate(-311.271 -444.741)">
+    <path id="Trazado_319" data-name="Trazado 319" d="M337.958,451.459a4.374,4.374,0,0,1,0,6.319,18.584,18.584,0,0,1-25.1,0,4.374,4.374,0,0,1,0-6.319,18.584,18.584,0,0,1,25.1,0Z" transform="translate(-0.237 -0.84)" fill="#fff"/>
+    <circle id="Elipse_32" data-name="Elipse 32" cx="5.166" cy="5.166" r="5.166" transform="translate(320.271 448.741)" fill="#0b2370"/>
+    <path id="Línea_49" data-name="Línea 49" d="M0,17.5a.5.5,0,0,1-.354-.146.5.5,0,0,1,0-.707l17-17a.5.5,0,0,1,.707,0,.5.5,0,0,1,0,.707l-17,17A.5.5,0,0,1,0,17.5Z" transform="translate(316.771 445.241)" fill="#fff" opacity="0"/>
+    <circle id="Elipse_33" data-name="Elipse 33" cx="2.166" cy="2.166" r="2.166" transform="translate(323.271 451.741)" fill="#fff"/>
+  </g>
+</svg>
